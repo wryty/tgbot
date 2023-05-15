@@ -27,7 +27,7 @@ namespace client
 
             usersList.ItemsSource = Users;
 
-            string token = "6286955732:AAEUOG2_l5LLqui1WyQSzxIdJte1kcjYnKk";
+            string token = "TOOOOKEN";
             bot = new TelegramBotClient(token);
 
             Users.Clear();
